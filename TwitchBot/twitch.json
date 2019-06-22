@@ -1,0 +1,22 @@
+{
+	"twitch_acounts":[
+		{
+			"id": "0",
+			"username": "nick",
+			"password": "password",
+			"token": "token",
+			"priority": "0",
+			"devicecookie": "value of cookie from twitch.tv",
+			"persistent": "value of cookie from twitch.tv"
+		},
+		{
+			"id": "1",
+			"username": "nick",
+			"password": "password",
+			"token": "token",
+			"priority": "0",
+			"devicecookie": "value of cookie from twitch.tv",
+			"persistent": "value of cookie from twitch.tv"
+		}
+	]
+}

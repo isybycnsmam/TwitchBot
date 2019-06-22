@@ -1,0 +1,22 @@
+{
+  "steam_acounts": [
+    {
+      "id": "0",
+      "username": "username",
+      "password": "password",
+      "token": "two factor token",
+      "giveaway_win_text": "firstmessage[]second[]etc",
+      "last_update": 0,
+      "cookies": [ ]
+    },
+    {
+      "id": "1",
+      "username": "username",
+      "password": "password",
+      "token": "two factor token",
+      "giveaway_win_text": "firstmessage[]second[]etc",
+      "last_update": 0,
+      "cookies": [ ]
+    }
+  ]
+}
