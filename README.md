@@ -1,4 +1,4 @@
-# TwitchBot (UNSUPORTED) LAST REALASE WAS IN 28.06.2018 May I update this project in future
+# TwitchBot (UNSUPORTED) LAST REALASE WAS IN 28.06.2018 I May update this project in the future
 This is bot for twitch that can be used for raids on twitch channels
 
 Bot can:
